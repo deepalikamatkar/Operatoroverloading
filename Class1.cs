@@ -9,6 +9,7 @@ namespace Operatoroverloading
     class Circle
     {
         private int radius;
+        private double rad;
         public int _radius
         {
             get { return this.radius; }
